@@ -1,14 +1,14 @@
 Hi 👋 My name is Theofilos Tsoris
 =================================
 
-Junior Deep Learning Engineer
+Deep Learning Engineer
 --------------------------------
 I am an experienced software engineer with a wealth of knowledge gained over several decades in developing complex software systems. However, my passion for Data Science, Machine Learning and Deep Learning took hold over a year ago, igniting an unyielding enthusiasm within me. Now, I am wholeheartedly dedicated to pursuing an active professional role in these fields. I am eager to apply my extensive software engineering skill set to the realm of MLOps, while also fulfilling my thirst for research by exploring and implementing cutting-edge Multimodal Deep Learning models in Computer Vision. With resolute determination and my enthusiasm, I am committed to making a meaningful impact in these domains.
    
 
 *   🌍  I'm based in Kilkis, Greece
 *   ✉️  You can contact me at [ttsoris at gmail dot com](mailto:ttsoris@gmail.com)
-*   🚀  I'm currently working on [HuBMAP + HPA - Hacking the Human Body Kaggle Competition](http://www.kaggle.com/competitions/hubmap-organ-segmentation/overview)
+*   🚀  I'm currently working on [HuBMAP - Hacking the Human Vasculature](https://www.kaggle.com/competitions/hubmap-hacking-the-human-vasculature) kaggle competition for instance segmentation of medical images!
 *   🚀  I'm also designing an MLOps project in Image Captioning which will cover the whole life-cycle of MLOps
 *   🧠  I'm learning [OpenMMLab's MMSegmentation](https://github.com/open-mmlab/mmsegmentation) module for semantic segmentation
 *   🤝  I'm researching for options of collaborating on a deep learning open-source project
